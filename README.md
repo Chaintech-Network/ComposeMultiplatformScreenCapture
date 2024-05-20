@@ -109,10 +109,8 @@ ElevatedButton(
 * `onCaptured`: Callback invoked when an image is successfully captured or when there's a failure during the capture process. It provides an ImageBitmap representing the captured image and a Throwable in case of any errors.
 * `content`: A composable function that defines the content to be displayed within the screen capture component. This could include buttons, text, or any other UI elements related to screen capture functionality.
 
-- For More Follow This Class -> [App.kt](www.google.com)
-
-- Follow Medium Link for example -> [App.kt](www.google.com)
-
-- Follow LinkedIn For More Updates -> [Mobile Innovation Network](https://www.linkedin.com/showcase/mobile-innovation-network)
+- For More [Follow This Class](https://github.com/ChainTechNetwork/ComposeMultiplatformScreenCapture/blob/main/composeApp/src/commonMain/kotlin/network/chaintech/screencapture/App.kt) 
+- Follow [Medium Link](https://medium.com/mobile-innovation-network/screencapture-compose-multiplatform-kmp-5aef62dd0dcf) for example
+- Follow [LinkedIn For More Updates](https://www.linkedin.com/showcase/mobile-innovation-network)
 
 
